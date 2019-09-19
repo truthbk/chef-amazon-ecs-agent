@@ -9,5 +9,4 @@ version '1.1.2'
 supports 'ubuntu'
 
 depends 'docker'
-depends 'chef-sugar'
 depends 'apt'
